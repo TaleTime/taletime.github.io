@@ -14,7 +14,7 @@ layout: default
 
 ## Contributing
 
-{{ site.lorem }}
+{{ site.contributing }}
 
 
 ## About us
