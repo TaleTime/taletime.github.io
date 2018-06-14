@@ -9,7 +9,7 @@ layout: default
 
 ## Write a Story
 
-{{ site.lorem }}
+{{ site.write }}
 
 
 ## Contributing
