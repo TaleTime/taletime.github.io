@@ -19,18 +19,6 @@ lorem: |
 
   Polaroid kinfolk beard, kale chips ugh lyft gluten-free live-edge PBR&B unicorn. Iceland venmo marfa swag echo park craft beer. Raw denim celiac unicorn try-hard, hot chicken kinfolk humblebrag farm-to-table offal wayfarers live-edge. Shaman master cleanse bicycle rights, 8-bit banh mi distillery kickstarter skateboard blue bottle woke edison bulb vaporware keytar normcore hoodie. Raclette marfa iPhone unicorn photo booth tote bag. Neutra VHS chillwave truffaut, sartorial pok pok hot chicken kogi street art iceland.
 
-write: |
-  TaleTime relies on writers writing stories! If you want to contribute, the following information is for you. 
-
-  The the open-source tool *[Twine](http://twinery.org)* is used to create stories. *[Here](https://twinery.org/wiki/twine2:guide)* you can find a useful tutorial in case you don't know twine yet.
-  After finishing the .twine file the *[twine converter](https://github.com/TaleTime/Converter)* is used to receive a .json file, which is then used by the actual TaleTime app. 
-
-
-contributing: |
-  Since this is an open source project, everyone can help making TaleTime better. You will find the complete source code on [GitHub](https://github.com/TaleTime/TaleTime), where you can also get some more information on how to contribute.
-
-  When implementing a new feature or fixing a bug, please make sure that your code follows the same style as the existing codebase and try writing your code as understandable as possible. You should also test your changes and only commit them if they don't break anything. Your comments should be in English.
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
