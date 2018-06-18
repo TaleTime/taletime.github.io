@@ -19,14 +19,7 @@ lorem: |
 
   Polaroid kinfolk beard, kale chips ugh lyft gluten-free live-edge PBR&B unicorn. Iceland venmo marfa swag echo park craft beer. Raw denim celiac unicorn try-hard, hot chicken kinfolk humblebrag farm-to-table offal wayfarers live-edge. Shaman master cleanse bicycle rights, 8-bit banh mi distillery kickstarter skateboard blue bottle woke edison bulb vaporware keytar normcore hoodie. Raclette marfa iPhone unicorn photo booth tote bag. Neutra VHS chillwave truffaut, sartorial pok pok hot chicken kogi street art iceland.
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - tools/
