@@ -24,7 +24,7 @@ When implementing a new feature or fixing a bug, please make sure that your code
 
 ## About us
 
-{{ site.lorem }}
+This project has been developed by several students of [Hochschule für Technik und Wirtschaft des Saarlandes](http://www.htwsaar.de). It has been in continous development for two years and now finally we want to take advantage of the huge open source community of github.
 
 
 ## Contact
