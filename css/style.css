@@ -1,0 +1,33 @@
+footer {
+    padding-top: 50px; 
+    padding-left: 20px; 
+    padding-right: 50px; 
+    padding-bottom: 50px; 
+    height: auto; 
+    min-height:200px; 
+    background-color: #BEBEBE;
+}
+
+.col-xs-12 {
+    padding-top: 50px; 
+    padding-bottom: 50px;
+}
+
+#app {
+    border-radius: 30px;
+    background-color: #000;
+    border: 5px solid #888;
+    height: 670px;
+    width: 330px;
+    padding: 60px 5px;
+    float: right;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+#app iframe {
+    border: 0;
+    width: 310px;
+    height: 540px;
+}
