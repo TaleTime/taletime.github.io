@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="app" class="d-none d-md-block">
-    <iframe src="app"></iframe>
+    <iframe src="/app/"></iframe>
 </div>
 
 
