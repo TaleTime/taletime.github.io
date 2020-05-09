@@ -1,5 +1,6 @@
 ---
 layout: default
+title: TaleTime
 ---
 
 <div id="app" class="d-none d-md-block">
@@ -7,7 +8,7 @@ layout: default
 </div>
 
 
-# TaleTime
+# {{ title }}
 
 TaleTime is an innovative app for Android and iOS, that lets children experience a new unique way of listening to audiobooks.
 
@@ -18,12 +19,12 @@ Besides our professionally recorded audiobooks we also give parents the opportun
         <a href="app">Try our online demo!</a>
     </p>
 </div> -->
-<!-- *[Try our online demo](https://tale-time.web.app/")* -->
-<div class="container"> 
+*[Try our online demo](https://tale-time.web.app/")*
+<!-- <div class="container"> 
     <a href="https://tale-time.web.app/">Try the new Fancy App!</a>
-</div>
+</div> -->
 
-## Write a new Star Wars Story
+## Write a Story
 
 TaleTime relies on writers writing stories! If you want to contribute, the following information is for you.
 
