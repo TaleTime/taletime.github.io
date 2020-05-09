@@ -1,5 +1,5 @@
 ---
-layout: default
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
 ---
 
 <div id="app" class="d-none d-md-block">
