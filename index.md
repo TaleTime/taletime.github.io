@@ -3,7 +3,7 @@
 ---
 
 <div id="app" class="d-none d-md-block">
-    <iframe src="https://tale-time.web.app"></iframe>
+    <iframe src="app"></iframe>
 </div>
 
 
