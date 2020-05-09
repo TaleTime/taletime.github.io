@@ -3,11 +3,6 @@ layout: default
 title: TaleTime
 ---
 
-<div id="app" class="d-none d-md-block">
-    <iframe src="https://tale-time.web.app"></iframe>
-</div>
-
-
 # TaleTime
 
 TaleTime is an innovative app for Android and iOS, that lets children experience a new unique way of listening to audiobooks.
