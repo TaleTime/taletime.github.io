@@ -21,7 +21,7 @@ Besides our professionally recorded audiobooks we also give parents the opportun
 *[Try our online demo](https://tale-time.web.app/")*
 
 
-## Write a Story
+## Write a new Star Wars Story
 
 TaleTime relies on writers writing stories! If you want to contribute, the following information is for you.
 
