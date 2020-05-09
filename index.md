@@ -18,8 +18,10 @@ Besides our professionally recorded audiobooks we also give parents the opportun
         <a href="app">Try our online demo!</a>
     </p>
 </div> -->
-*[Try our online demo](https://tale-time.web.app/")*
-
+<!-- *[Try our online demo](https://tale-time.web.app/")* -->
+<div class="container"> 
+    <a href="https://tale-time.web.app/">Try the new Fancy App!</a>
+</div>
 
 ## Write a new Star Wars Story
 
