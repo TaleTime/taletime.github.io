@@ -13,11 +13,12 @@ TaleTime is an innovative app for Android and iOS, that lets children experience
 
 Besides our professionally recorded audiobooks we also give parents the opportunity to record the stories themselves. Recording is very convenient and of course can be done without extensive technical know-how. TaleTime also offers children the opportunity to influence the course of the stories themselves.
 
-<div class="d-lg-none">
+<!-- <div class="d-lg-none">
     <p class="lead">
         <a href="app">Try our online demo!</a>
     </p>
-</div>
+</div> -->
+*[Try our online demo](https://tale-time.web.app/")*
 
 
 ## Write a Story
