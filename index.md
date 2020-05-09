@@ -8,7 +8,7 @@ title: TaleTime
 </div>
 
 
-# {{ title }}
+# TaleTime
 
 TaleTime is an innovative app for Android and iOS, that lets children experience a new unique way of listening to audiobooks.
 
