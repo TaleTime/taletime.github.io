@@ -7,7 +7,7 @@ layout: default
 </div>
 
 
-# TaleTime
+# TaleTime  <img src="/icon-small.png" width="29" height="29" class="d-inline-block align-top" alt="">
 
 TaleTime is an innovative app for Android and iOS, that lets children experience a new unique way of listening to audiobooks.
 
